@@ -2322,7 +2322,7 @@
       gender: m
 ? I apologize, but the text you've provided appears to be severely corrupted OCR output that does not resemble a coherent Sanskrit sloka. There are numbers, unrecognizable characters, and no discernible Sanskrit verse structure. Without a clearer original text, I cannot reconstruct a meaningful Sanskrit verse. If you have the original sloka in a more readable Devanagari script or transliteration, I would be happy to help correct any OCR errors and restore the verse.
 : entries: []
-भूषायां लाड्गूले प्रधानशृड्गप्रभावपुण्ड्रेषु। ध्वजलक्ष्मतुरड्गेषु च नवसु ललामं प्रचक्षते प्राज्ञा:॥:
+भूषायां लाङ्गू​ले प्रधानशृङ्गप्रभावपुण्ड्रेषु। ध्वजलक्ष्मतुरङ्गेषु च नवसु ललामं प्रचक्षते प्राज्ञा:॥:
   entries:
   - head: वाक्
     verify: false
@@ -2350,7 +2350,7 @@
     syns:
     - prati: पशु
       gender: m
-अर्कमर्कटमक्ष्डूकविष्णुवासववायव: ।  तुरङ्गसिंहशीतांशुयमाश्च हरयो दश ॥:
+अर्कमर्कटमण्डूकविष्णुवासववायव: । तुरङ्गसिंहशीतांशुयमाश्च हरयो दश॥: 
   entries:
   - head: विष्णु
     verify: false
@@ -2393,9 +2393,9 @@
     verify: false
     gender: n
     syns:
-अकंमकंटमण्डलविष्णुवासववायवः । नवत एकादशाख्याता हरयो हरिसिद्धयः ॥:    - prati: ददात्
+    
       gender: n
-पृथिव्यादिषु भूतेषुशरीरेषु रसादिषु। लोहेषु च  स्मृतो धातुःस्वभावे गौरिकादिषु॥:
+पृथिव्यादिषु भूतेषु शरीरेषु रसादिषु। लोहेषु च  स्मृतो धातुः स्वभावे गैरिकादिषु॥:
 : entries:
   - head: पृथिवी
     verify: false
@@ -2431,7 +2431,7 @@
       gender: n
     - prati: पद्म
       gender: n
- द्विरदकराग्रे पद्मे *खड्.गफले व्योम्नि वाद्यभाण्डमुखे। अगदे जले च तीर्थे पुष्करमष्टासु निदिष्टम् पश्यता निलयेषु ॥:
+ द्विरदकराग्रे पद्मे खङ्गफले व्योम्नि वाद्यभाण्डमुखे। अगदे जले च तीर्थे पुष्करमष्टासु निर्दिष्टम्  ॥:
   entries:
   - head: जीव
     verify: false
@@ -2457,7 +2457,7 @@
       gender: m
     - prati: निलय
       gender: m
-चतुर्विधेषु जीवेषु पृथिव्यादिषु पञ्चसु। अतीते देवयोनौ च भूतशब्दं प्रचक्षते ॥ कर्मणा पुंसां यदा तद्विषये स्थितिः ॥:
+चतुर्विधेषु जीवेषु पृथिव्यादिषु पञ्चसु। अतीते देवयोनौ च भूतशब्दं प्रचक्षते ॥:
   entries:
   - head: देव
     verify: false
