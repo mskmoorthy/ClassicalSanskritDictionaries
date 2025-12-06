@@ -2237,7 +2237,7 @@
       gender: n
 अक्षं विभोर्लके ऽपि रुज्यते पञ्चसु प्राज्ञाः ।॥:
   entries: []
-निःशेषेऽवमाने च व्यस्योत्सवयोगतः । श्रेष्ठे स्थाने अग्नौ धने शुक्रं मज्ज्ञि सार उदाहृतः ॥:
+निष्ठा क्लेशेऽवसाने च व्यवस्थोत्कर्षयोर्व्रते । श्रेष्ठे स्थाम्नि धने शुक्रे मज्ज्ञि सार उदाहृतः ॥:
   entries:
   - head: निःशेष
     verify: false
@@ -2291,7 +2291,7 @@
       gender: m
     - prati: मज्ज्ञि
       gender: m
-? ॐ दाने विशेषे, दाने विदोषलब्धौ पितुर् ऋणवते, पितुर् इक्थे ॥ ग्रन्थम् इच्छन्ति भिष्वङ्गः प्रत्ययः ॥ जन्ममात्राभिप्राप्तेषु कथ्यते कृतिभिः प्रयुज्यते ॥ शुक्ले शुल्के ॥
+दिग्दृष्टिदीधितिस्वर्गवज्रवागवाणवारिषु। भूमौ पशौ च गोशब्दो विद्वद्भिर्दशसु स्मृत:॥:
 : entries:
   - head: दान
     verify: false
@@ -2322,7 +2322,7 @@
       gender: m
 ? I apologize, but the text you've provided appears to be severely corrupted OCR output that does not resemble a coherent Sanskrit sloka. There are numbers, unrecognizable characters, and no discernible Sanskrit verse structure. Without a clearer original text, I cannot reconstruct a meaningful Sanskrit verse. If you have the original sloka in a more readable Devanagari script or transliteration, I would be happy to help correct any OCR errors and restore the verse.
 : entries: []
-अदिष्टिदीधितिस्वैर्वाग्वाणवारिषु दधि च। भूमौ पशौ च भोगाब्दो विद्रद्धिदेशसु स्मृतः॥:
+भूषायां लाड्गूले प्रधानशृड्गप्रभावपुण्ड्रेषु। ध्वजलक्ष्मतुरड्गेषु च नवसु ललामं प्रचक्षते प्राज्ञा:॥:
   entries:
   - head: वाक्
     verify: false
@@ -2350,7 +2350,7 @@
     syns:
     - prati: पशु
       gender: m
-अकंमकंटमण्डलविष्णुवासववायवः । नवत एकादशाख्याता हरयो हरिसिद्धयः ॥:
+अर्कमर्कटमक्ष्डूकविष्णुवासववायव: ।  तुरङ्गसिंहशीतांशुयमाश्च हरयो दश ॥:
   entries:
   - head: विष्णु
     verify: false
@@ -2393,9 +2393,9 @@
     verify: false
     gender: n
     syns:
-    - prati: ददात्
+अकंमकंटमण्डलविष्णुवासववायवः । नवत एकादशाख्याता हरयो हरिसिद्धयः ॥:    - prati: ददात्
       gender: n
-? लल्लः कहारीरेषु कले पृथिव्यादिषु भूरुषु स्थादिषु । नैरुकादिषु द्विरदकराग्रे पद्मं खधाम्नि व्योम्नि वायुमण्डलमुखम् ॥ अगदे जले च तीर्थे पुष्करमष्टासु निदिष्टम् ॥
+पृथिव्यादिषु भूतेषुशरीरेषु रसादिषु। लोहेषु च  स्मृतो धातुःस्वभावे गौरिकादिषु॥:
 : entries:
   - head: पृथिवी
     verify: false
@@ -2431,7 +2431,7 @@
       gender: n
     - prati: पद्म
       gender: n
-पश्यता चतुर्विशेषु जीवेषु पृथिव्यादिषु पञ्चसु निलयेषु ॥:
+ द्विरदकराग्रे पद्मे *खड्.गफले व्योम्नि वाद्यभाण्डमुखे। अगदे जले च तीर्थे पुष्करमष्टासु निदिष्टम् पश्यता निलयेषु ॥:
   entries:
   - head: जीव
     verify: false
@@ -2457,7 +2457,7 @@
       gender: m
     - prati: निलय
       gender: m
-देवयोनौ चरं भूतरन्ध प्रचक्षते । अतीते कर्मणा पुंसां यदा तद्विषये स्थितिः ॥:
+चतुर्विधेषु जीवेषु पृथिव्यादिषु पञ्चसु। अतीते देवयोनौ च भूतशब्दं प्रचक्षते ॥ कर्मणा पुंसां यदा तद्विषये स्थितिः ॥:
   entries:
   - head: देव
     verify: false
